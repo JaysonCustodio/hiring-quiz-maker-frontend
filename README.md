@@ -16,7 +16,6 @@ Fully integrated with a Node.js + SQLite backend that provides API endpoints for
     - **Validation**: Prevents duplicate options with real-time error messages
     - **Form Validation**: Buttons disabled when form has errors
   - **Short Answer**: Case-insensitive text matching
-  - **Code**: Prompt-only questions with optional code snippets (no auto-grading)
 - Publish quizzes to backend
 - Receive unique Quiz ID for sharing
 
