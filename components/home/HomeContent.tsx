@@ -11,7 +11,7 @@ export function HomeContent() {
     <div className="bg-white h-lvh flex flex-col gap-3 items-center justify-center">
       <h1 className="text-black font-bold text-3xl">Quiz Maker</h1>
       <p className="text-sm text-gray-500">Please choose your action</p>
-      <div className="flex flex-row gap-3">
+      <div className="flex flex-row gap-3 max-sm:flex-col justify-between items-center">
         <Link
           href="/builder"
           className="bg-black w-52 rounded-md font-bold text-center p-3 transition-colors hover:bg-gray-800"
